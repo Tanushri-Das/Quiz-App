@@ -44,5 +44,44 @@
       "None of the above"
     ],
     "correctAnswer": "Both the <head> section and the <body> section are correct"
+  },
+  {
+    "id": 7,
+    "question": "What is React?",
+    "options": [
+      "A JavaScript library for building user interfaces",
+      "A framework for developing server-side applications",
+      "A CSS framework",
+      "A database management system"
+    ],
+    "correctAnswer": "A JavaScript library for building user interfaces"
+  },
+  {
+    "id": 8,
+    "question": "What is the command to create a new React application?",
+    "options": [
+      "npx create-react-app my-app",
+      "npm install react",
+      "react-new-app my-app",
+      "create-react-app my-app"
+    ],
+    "correctAnswer": "npx create-react-app my-app"
+  },
+  {
+    "id": 9,
+    "question": "What is TypeScript?",
+    "options": [
+      "A superset of JavaScript that compiles to plain JavaScript",
+      "A CSS preprocessor",
+      "A markup language",
+      "A database query language"
+    ],
+    "correctAnswer": "A superset of JavaScript that compiles to plain JavaScript"
+  },
+  {
+    "id": 10,
+    "question": "Which keyword is used to declare a variable in TypeScript?",
+    "options": ["var", "let", "const", "All of the above"],
+    "correctAnswer": "All of the above"
   }
 ]
